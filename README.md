@@ -4,7 +4,7 @@ My name is Liam, and I am a first-year **Software Engineering** student!
 Thanks for visitng my profile!
 
 
-- 🔭 I'm currently working on my C++ Project (which is a top secret project 😉)
+- 🔭 I'm currently working on my second year and a variety of projects I am excited to show you soon!
 
 - 📫 You can reach me on [**E-mail**](mailto:liam.neate@my.ntu.ac.uk) or [**Linkedin**](https://www.linkedin.com/in/liam-neate-39624a200/)
 
