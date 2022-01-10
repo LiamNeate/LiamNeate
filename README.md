@@ -1,11 +1,9 @@
 ## Welcome 
-My name is Liam, and I am a first-year **Software Engineering** student!
-
-Thanks for visitng my profile!
+My name is Liam, and I am a second-year **Software Engineering** student!
 
 
 - 🔭 I'm currently working on my second year and a variety of projects I am excited to show you soon!
-
+- 🌱 I'm currently learning some Java as well as expanding my C++ knowledege.
 - 📫 You can reach me on [**E-mail**](mailto:liam.neate@my.ntu.ac.uk) or [**Linkedin**](https://www.linkedin.com/in/liam-neate-39624a200/)
 
 ## Some cool stats!
