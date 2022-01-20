@@ -3,6 +3,7 @@ My name is Liam, and I am a second-year **Software Engineering** student!
 
 
 - 🔭 I'm currently working on my second year and a variety of projects I am excited to show you soon!
+- ⚡ I have recently made my current personal project public. If you would like to follow along and see the progress so far, it can be found at https://github.com/LiamNeate/sudoku
 - 🌱 I'm currently learning some Java as well as expanding my C++ knowledege.
 - 📫 You can reach me on [**E-mail**](mailto:liam.neate@my.ntu.ac.uk) or [**Linkedin**](https://www.linkedin.com/in/liam-neate-39624a200/)
 
