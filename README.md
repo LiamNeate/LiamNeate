@@ -1,5 +1,5 @@
 ## Welcome 
-My name is Liam, and I am a second-year **Software Engineering** student!
+My name is Liam, and I am a third-year **Software Engineering** student on a placement year at **LexisNexis Risk Solutions**!
 
 
 - 🔭 I'm currently on my placement year at LexisNexis Risk Solutions as a software engingeer!
