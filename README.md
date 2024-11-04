@@ -1,11 +1,11 @@
 ## Welcome 
-My name is Liam, and I am a third-year **Software Engineering** student on a placement year at **LexisNexis Risk Solutions**!
+My name is Liam, and I am a **Graduate Software Engineering** student currently working at **Microlise**!
 
 
-- 🔭 I'm currently on my placement year at LexisNexis Risk Solutions as a software engingeer!
+- 🔭 I'm currently working at Microlise as a graduate software engingeer!
 - ⚡ I have recently made my current personal project public. If you would like to follow along and see the progress so far, it can be found at https://github.com/LiamNeate/sudoku
 - 🌱 I'm currently learning some Java and PHP, as well as expanding my C++ knowledege.
-- 📫 You can reach me on [**E-mail**](mailto:liam.neate@my.ntu.ac.uk) or [**Linkedin**](https://www.linkedin.com/in/liam-neate-39624a200/)
+- 📫 You can reach me on [**E-mail**](mailto:liam.neate@outlook.com) or [**Linkedin**](https://www.linkedin.com/in/liam-neate-39624a200/)
 
 ## Some cool stats!
 
